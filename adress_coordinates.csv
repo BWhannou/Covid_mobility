@@ -1,0 +1,763 @@
+,adress,coord,latitudes,longitudes
+0,Shqipëria,"(41.000028, 19.9999619)",41.000028,19.9999619
+2,Argentina,"(-34.9964963, -64.9672817)",-34.9964963,-64.9672817
+4,Australia,"(-24.7761086, 134.755)",-24.7761086,134.755
+7,Österreich,"(47.2000338, 13.199959)",47.2000338,13.199959
+9,België / Belgique / Belgien,"(50.6402809, 4.6667145)",50.6402809,4.6667145
+12,Brasil,"(-10.3333333, -53.2)",-10.3333333,-53.2
+15,Бългaрия,"(42.6073975, 25.4856617)",42.6073975,25.4856617
+17,ព្រះរាជាណាចក្រ​កម្ពុជា,"(13.5066394, 104.869423)",13.5066394,104.869423
+19,Canada,"(61.0666922, -107.9917071)",61.0666922,-107.9917071
+22,Chile,"(-31.7613365, -71.3187697)",-31.7613365,-71.3187697
+24,Colombia,"(2.8894434, -73.783892)",2.8894434,-73.783892
+26,Hrvatska,"(45.5643442, 17.0118954)",45.5643442,17.0118954
+28,Česko,"(49.8167003, 15.4749544)",49.8167003,15.4749544
+31,Danmark,"(55.670249, 10.3333283)",55.670249,10.3333283
+34,مصر,"(26.2540493, 29.2675469)",26.2540493,29.2675469
+36,Eesti,"(58.7523778, 25.3319078)",58.7523778,25.3319078
+39,Suomi,"(63.2467777, 25.9209164)",63.2467777,25.9209164
+42,France,"(46.603354, 1.8883335)",46.603354,1.8883335
+45,Deutschland,"(51.0834196, 10.4234469)",51.0834196,10.4234469
+48,Ελλάς,"(38.9953683, 21.9877132)",38.9953683,21.9877132
+50,"香港島 Hong Kong Island, 香港 Hong Kong, China 中国","(22.2793278, 114.1628131)",22.2793278,114.1628131
+52,Magyarország,"(47.1817585, 19.5060937)",47.1817585,19.5060937
+54,Ísland,"(64.9841821, -18.1059013)",64.9841821,-18.1059013
+56,भारत - India,"(22.3511148, 78.6677428)",22.3511148,78.6677428
+58,Indonesia,"(-2.4833826, 117.8902853)",-2.4833826,117.8902853
+60,Ireland,"(52.865196, -7.9794599)",52.865196,-7.9794599
+63,ישראל,"(31.5313113, 34.8667654)",31.5313113,34.8667654
+65,Italia,"(42.6384261, 12.674297)",42.6384261,12.674297
+68,日本,"(36.5748441, 139.2394179)",36.5748441,139.2394179
+71,Latvija,"(56.8406494, 24.7537645)",56.8406494,24.7537645
+73,Lietuva,"(55.3500003, 23.7499997)",55.3500003,23.7499997
+75,Lëtzebuerg,"(49.8158683, 6.1296751)",49.8158683,6.1296751
+78,"澳門 Macau, China 中国","(22.1757605, 113.5514142)",22.1757605,113.5514142
+80,Malaysia,"(4.5693754, 102.2656823)",4.5693754,102.2656823
+82,"Ciudad de México, Cuauhtémoc, Ciudad de México, 06060, México","(19.4326296, -99.1331785)",19.4326296,-99.1331785
+85,Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب,"(31.1728205, -7.3362482)",31.1728205,-7.3362482
+87,Nederland,"(52.5001698, 5.7480821)",52.5001698,5.7480821
+90,New Zealand / Aotearoa,"(-41.5000831, 172.8344077)",-41.5000831,172.8344077
+93,"Norge, Namsos, Trøndelag, Norge","(64.5731537, 11.52803643954819)",64.5731537,11.52803643954819
+96,Philippines,"(12.7503486, 122.7312101)",12.7503486,122.7312101
+99,Polska,"(52.215933, 19.134422)",52.215933,19.134422
+101,Portugal,"(40.0332629, -7.8896263)",40.0332629,-7.8896263
+103,대한민국,"(36.638392, 127.6961188)",36.638392,127.6961188
+105,România,"(45.9852129, 24.6859225)",45.9852129,24.6859225
+107,Россия,"(64.6863136, 97.7453061)",64.6863136,97.7453061
+109,السعودية,"(25.6242618, 42.3528328)",25.6242618,42.3528328
+111,"Србија, Доње Комарице, Крагујевац, Град Крагујевац, Шумадијски управни округ, Централна Србија, Србија (Serbia)","(44.024322850000004, 21.07657433209902)",44.024322850000004,21.07657433209902
+113,Singapore,"(1.357107, 103.8194992)",1.357107,103.8194992
+116,Slovensko,"(48.7411522, 19.4528646)",48.7411522,19.4528646
+119,Slovenija,"(45.8133113, 14.4808369)",45.8133113,14.4808369
+121,South Africa,"(-28.8166236, 24.991639)",-28.8166236,24.991639
+123,España,"(39.3262345, -4.8380649)",39.3262345,-4.8380649
+126,Sverige,"(59.6749712, 14.5208584)",59.6749712,14.5208584
+129,Schweiz/Suisse/Svizzera/Svizra,"(46.7985624, 8.2319736)",46.7985624,8.2319736
+132,"臺灣, 信義鄉, 南投縣, 臺灣省, Taiwan","(23.59829785, 120.83536313817521)",23.59829785,120.83536313817521
+135,ประเทศไทย,"(14.8971921, 100.83273)",14.8971921,100.83273
+137,Türkiye,"(38.9597594, 34.9249653)",38.9597594,34.9249653
+139,United Kingdom,"(54.7023545, -3.2765753)",54.7023545,-3.2765753
+142,Україна,"(49.4871968, 31.2718321)",49.4871968,31.2718321
+144,الإمارات العربية المتحدة,"(24.0002488, 53.9994829)",24.0002488,53.9994829
+146,United States,"(39.7837304, -100.4458825)",39.7837304,-100.4458825
+149,Uruguay,"(-32.8755548, -56.0201525)",-32.8755548,-56.0201525
+151,Việt Nam,"(13.2904027, 108.4265113)",13.2904027,108.4265113
+153,"Albuquerque, Bernalillo County, New Mexico, United States of America","(35.0841034, -106.6509851)",35.0841034,-106.6509851
+156,"Amsterdam, Noord-Holland, Nederland","(52.3727598, 4.8936041)",52.3727598,4.8936041
+159,"Ann Arbor, Washtenaw County, Michigan, United States of America","(42.2681569, -83.7312291)",42.2681569,-83.7312291
+162,"Annapolis, Anne Arundel County, Maryland, United States of America","(38.9786401, -76.492786)",38.9786401,-76.492786
+165,"Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, 10667, Ελλάδα","(37.9839412, 23.7283052)",37.9839412,23.7283052
+167,"Atlanta, Fulton County, Georgia, United States of America","(33.7490987, -84.3901849)",33.7490987,-84.3901849
+170,"Auckland, 1010, New Zealand","(-36.852095, 174.7631803)",-36.852095,174.7631803
+173,"Austin, Travis County, Texas, United States of America","(30.2711286, -97.7436995)",30.2711286,-97.7436995
+176,"Bakersfield, Kern County, California, United States of America","(35.3738712, -119.0194639)",35.3738712,-119.0194639
+179,"Baltimore, Maryland, 21203, United States of America","(39.2908816, -76.610759)",39.2908816,-76.610759
+182,"กรุงเทพมหานคร, เขตพระนคร, 10200, ประเทศไทย","(13.7542529, 100.493087)",13.7542529,100.493087
+184,"Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España","(41.3828939, 2.1774322)",41.3828939,2.1774322
+187,"Berlin, Deutschland","(52.5170365, 13.3888599)",52.5170365,13.3888599
+190,"Birmingham, Jefferson County, Alabama, United States of America","(33.5206824, -86.8024326)",33.5206824,-86.8024326
+193,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom","(52.4796992, -1.9026911)",52.4796992,-1.9026911
+196,"Bochum-Langendreer, Hauptstraße, Wilhelmshöhe, Langendreer, Bochum-Ost, Bochum, Nordrhein-Westfalen, 44892, Deutschland","(51.4779843, 7.3236336)",51.4779843,7.3236336
+199,"Boston, Suffolk County, Massachusetts, United States of America","(42.3602534, -71.0582912)",42.3602534,-71.0582912
+202,"Bridgeport, Fairfield, Connecticut, United States of America","(41.1670412, -73.2048348)",41.1670412,-73.2048348
+205,"Brisbane, Queensland, 4004, Australia","(-27.4689682, 153.0234991)",-27.4689682,153.0234991
+208,"Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, België - Belgique - Belgien","(50.8465573, 4.351697)",50.8465573,4.351697
+211,"Budapest, Közép-Magyarország, Magyarország","(47.4983815, 19.0404707)",47.4983815,19.0404707
+212,"Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, Argentina","(-34.6075682, -58.4370894)",-34.6075682,-58.4370894
+214,"القاهرة, Egypt / مصر","(30.048819, 31.243666)",30.048819,31.243666
+216,"Calgary, Alberta, Canada","(51.0534234, -114.0625892)",51.0534234,-114.0625892
+219,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa","(-33.928992, 18.417396)",-33.928992,18.417396
+221,"Charlotte, Mecklenburg County, North Carolina, United States of America","(35.2270869, -80.8431268)",35.2270869,-80.8431268
+224,"Chicago, Cook County, Illinois, United States of America","(41.8755616, -87.6244212)",41.8755616,-87.6244212
+227,"Cincinnati, Hamilton County, Ohio, United States of America","(39.1014537, -84.5124602)",39.1014537,-84.5124602
+230,"Cleveland, Cuyahoga County, Ohio, United States of America","(41.5051613, -81.6934446)",41.5051613,-81.6934446
+233,"Köln, Nordrhein-Westfalen, Deutschland","(50.938361, 6.959974)",50.938361,6.959974
+236,"Colorado Springs, El Paso County, Colorado, United States of America","(38.8339578, -104.8253485)",38.8339578,-104.8253485
+239,"Columbus, Franklin County, Ohio, United States of America","(39.9622601, -83.0007065)",39.9622601,-83.0007065
+242,"København, Københavns Kommune, Region Hovedstaden, 1357, Danmark","(55.6867243, 12.5700724)",55.6867243,12.5700724
+245,"Corpus Christi, Nueces County, Texas, United States of America","(27.7477253, -97.4014129)",27.7477253,-97.4014129
+248,"Dallas, Dallas County, Texas, United States of America","(32.7762719, -96.7968559)",32.7762719,-96.7968559
+251,"Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110006, India","(28.6517178, 77.2219388)",28.6517178,77.2219388
+253,"Denver, Denver County, Colorado, United States of America","(39.7392364, -104.9848623)",39.7392364,-104.9848623
+256,"Detroit, Wayne County, Michigan, United States of America","(42.3315509, -83.0466403)",42.3315509,-83.0466403
+259,"دبي, United Arab Emirates","(25.0750095, 55.18876088183319)",25.0750095,55.18876088183319
+261,"Dublin, County Dublin, Leinster, Ireland","(53.3497645, -6.2602732)",53.3497645,-6.2602732
+264,"Düsseldorf, Nordrhein-Westfalen, 40213, Deutschland","(51.2254018, 6.7763137)",51.2254018,6.7763137
+267,"Edmonton, Alberta, Canada","(53.535411, -113.507996)",53.535411,-113.507996
+270,"Frankfurt am Main, Hessen, Deutschland","(50.1106444, 8.6820917)",50.1106444,8.6820917
+272,"Fresno, Fresno County, California, United States of America","(36.7295295, -119.70886126075588)",36.7295295,-119.70886126075588
+275,"福岡県, 日本 (Japan)","(33.6251241, 130.6180016)",33.6251241,130.6180016
+278,"Grand Rapids, Kent County, Michigan, United States of America","(42.9632405, -85.6678639)",42.9632405,-85.6678639
+281,"Greensboro, Guilford County, North Carolina, United States of America","(36.0726355, -79.7919754)",36.0726355,-79.7919754
+284,"Guadalajara, Jalisco, 44360, México","(20.6720375, -103.3383962)",20.6720375,-103.3383962
+286,"Halifax, Halifax County, Nova Scotia, Canada","(44.648618, -63.5859487)",44.648618,-63.5859487
+289,"Hamburg, Deutschland","(53.5437641, 10.0099133)",53.5437641,10.0099133
+292,"Hartford, Connecticut, United States of America","(41.764582, -72.6908547)",41.764582,-72.6908547
+295,"Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi","(60.1674098, 24.9425769)",60.1674098,24.9425769
+298,"Honolulu, Honolulu County, Hawaii, United States of America","(21.304547, -157.8556764)",21.304547,-157.8556764
+301,"Houston, Harris County, Texas, United States of America","(29.7589382, -95.3676974)",29.7589382,-95.3676974
+304,"Həsin, Astara rayonu, Lənkəran, Azerbaijan","(38.5834333, 48.7906497)",38.5834333,48.7906497
+306,"Indianapolis, Marion, Indiana, United States of America","(39.7683331, -86.1583502)",39.7683331,-86.1583502
+309,"İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34126, Türkiye","(41.0096334, 28.9651646)",41.0096334,28.9651646
+311,"Jacksonville, Duval County, Florida, United States of America","(30.3321838, -81.655651)",30.3321838,-81.655651
+314,"Daerah Khusus Ibukota Jakarta, Indonesia","(-6.1753942, 106.827183)",-6.1753942,106.827183
+316,"Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa","(-26.205, 28.049722)",-26.205,28.049722
+318,"Kansas City, Jackson County, Missouri, United States of America","(39.100105, -94.5781416)",39.100105,-94.5781416
+321,"Kuala Lumpur, Malaysia","(3.1516964, 101.6942371)",3.1516964,101.6942371
+323,"Las Vegas, Clark County, Nevada, United States of America","(36.1672559, -115.1485163)",36.1672559,-115.1485163
+326,"Leeds, Yorkshire and the Humber, England, United Kingdom","(53.7974185, -1.5437941)",53.7974185,-1.5437941
+329,"Lexington, Fayette County, Kentucky, 40508, United States of America","(38.0464066, -84.4970393)",38.0464066,-84.4970393
+332,"Lille, Nord, Hauts-de-France, France métropolitaine, France","(50.6365654, 3.0635282)",50.6365654,3.0635282
+335,"London, Greater London, England, SW1A 2DX, United Kingdom","(51.5073219, -0.1276474)",51.5073219,-0.1276474
+338,"Los Angeles, Los Angeles County, California, United States of America","(34.0536909, -118.2427666)",34.0536909,-118.2427666
+341,"Louisville, Jefferson County, Kentucky, United States of America","(38.2542376, -85.759407)",38.2542376,-85.759407
+344,"Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France","(45.7578137, 4.8320114)",45.7578137,4.8320114
+347,"Madison, Dane County, Wisconsin, United States of America","(43.074761, -89.3837613)",43.074761,-89.3837613
+350,"Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España","(40.4167047, -3.7035825)",40.4167047,-3.7035825
+353,"Manchester, Greater Manchester, North West England, England, United Kingdom","(53.4794892, -2.2451148)",53.4794892,-2.2451148
+356,"Manila, NCR, First District, Metro Manila, Philippines","(14.5906216, 120.9799696)",14.5906216,120.9799696
+359,"City of Melbourne, Victoria, Australia","(-37.8142176, 144.9631608)",-37.8142176,144.9631608
+362,"Memphis, Shelby County, Tennessee, United States of America","(35.1490215, -90.0516285)",35.1490215,-90.0516285
+368,"Miami, Miami-Dade County, Florida, United States of America","(25.7742658, -80.1936589)",25.7742658,-80.1936589
+371,"Milano, Lombardia, Italia","(45.4668, 9.1905)",45.4668,9.1905
+373,"Milwaukee, Milwaukee County, Wisconsin, United States of America","(43.0349931, -87.922497)",43.0349931,-87.922497
+376,"Minneapolis, Hennepin County, Minnesota, United States of America","(44.9772995, -93.2654692)",44.9772995,-93.2654692
+379,"Modesto, Stanislaus County, California, United States of America","(37.6390972, -120.9968782)",37.6390972,-120.9968782
+382,"Monterey County, California, United States of America","(36.2231079, -121.3877428)",36.2231079,-121.3877428
+385,"Montréal, Agglomération de Montréal, Montréal (06), Québec, Canada","(45.4972159, -73.6103642)",45.4972159,-73.6103642
+388,"Москва, Центральный федеральный округ, Россия","(55.4792046, 37.3273304)",55.4792046,37.3273304
+390,"Mumbai, Mumbai City, Maharashtra, India","(18.9387711, 72.8353355)",18.9387711,72.8353355
+392,"München, Bayern, Deutschland","(48.1371079, 11.5753822)",48.1371079,11.5753822
+394,"名古屋市, 愛知県, 日本 (Japan)","(35.1851045, 136.8998438)",35.1851045,136.8998438
+397,"Nashville-Davidson, Davidson County, Tennessee, United States of America","(36.1622296, -86.7743531)",36.1622296,-86.7743531
+400,"New Haven, Connecticut, United States of America","(41.3082138, -72.9250518)",41.3082138,-72.9250518
+403,"New Orleans, Orleans Parish, Louisiana, United States of America","(29.9499323, -90.0701156)",29.9499323,-90.0701156
+406,"New York, United States of America","(40.7127281, -74.0060152)",40.7127281,-74.0060152
+409,"Oklahoma City, Oklahoma County, Oklahoma, United States of America","(35.4729886, -97.5170536)",35.4729886,-97.5170536
+412,"Omaha, Douglas County, Nebraska, United States of America","(41.2587459, -95.9383758)",41.2587459,-95.9383758
+415,"Orlando, Central Boulevard, Thornton Park, Orlando, Orange County, Florida, 32801, United States of America","(28.5421109, -81.3790304)",28.5421109,-81.3790304
+418,"大阪府, 日本 (Japan)","(34.6198813, 135.490357)",34.6198813,135.490357
+421,"Oslo, 0026, Norge","(59.9133301, 10.7389701)",59.9133301,10.7389701
+424,"Ottawa, Eastern Ontario, Ontario, K1P 1J1, Canada","(45.421106, -75.690308)",45.421106,-75.690308
+427,"Paris, Île-de-France, France métropolitaine, France","(48.8566969, 2.3514616)",48.8566969,2.3514616
+430,"Perth, Western Australia, 6000, Australia","(-31.9527121, 115.8604796)",-31.9527121,115.8604796
+433,"Philadelphia, Philadelphia County, Pennsylvania, United States of America","(39.9527237, -75.1635262)",39.9527237,-75.1635262
+436,"Phoenix, Maricopa County, Arizona, United States of America","(33.4484367, -112.0741417)",33.4484367,-112.0741417
+439,"Pittsburgh, Allegheny County, Pennsylvania, United States of America","(40.4416941, -79.9900861)",40.4416941,-79.9900861
+442,"Portland, Multnomah County, Oregon, United States of America","(45.5202471, -122.6741949)",45.5202471,-122.6741949
+445,"Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, Česká republika","(50.0874654, 14.4212535)",50.0874654,14.4212535
+446,"Providence, Rhode Island, United States of America","(41.8239891, -71.4128343)",41.8239891,-71.4128343
+449,"Raleigh, Wake County, North Carolina, United States of America","(35.7803977, -78.6390989)",35.7803977,-78.6390989
+452,"Richmond, Richmond City, Virginia, 23298, United States of America","(37.5385087, -77.43428)",37.5385087,-77.43428
+455,"Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, Brasil","(-22.9110137, -43.2093727)",-22.9110137,-43.2093727
+458,"الرياض, منطقة الرياض, 3285, Saudi Arabia / السعودية","(24.6319692, 46.7150648)",24.6319692,46.7150648
+460,"Rochester, Monroe County, New York, United States of America","(43.157285, -77.615214)",43.157285,-77.615214
+463,"Roma, Roma Capitale, Italia","(41.8933203, 12.4829321)",41.8933203,12.4829321
+466,"Rotterdam, Zuid-Holland, Nederland","(51.9228958, 4.4631727)",51.9228958,4.4631727
+469,"Sacramento, Sacramento County, California, United States of America","(38.5815719, -121.4943996)",38.5815719,-121.4943996
+472,,(),,
+475,"Санкт-Петербург, Северо-Западный федеральный округ, 190000, Россия","(59.9606739, 30.1586551)",59.9606739,30.1586551
+477,"Salt Lake City, Utah, United States of America","(40.7596198, -111.8867975)",40.7596198,-111.8867975
+480,"San Antonio, Bexar County, Texas, United States of America","(29.4246002, -98.4951405)",29.4246002,-98.4951405
+483,"San Diego, San Diego County, California, United States of America","(32.7174209, -117.1627714)",32.7174209,-117.1627714
+486,"San Francisco Bay Area, San Francisco, San Francisco City and County, California, 94130, United States of America","(37.7884969, -122.3558473)",37.7884969,-122.3558473
+489,"Santa Barbara, Santa Barbara County, California, United States of America","(34.4221319, -119.7026673)",34.4221319,-119.7026673
+492,"Santiago, Cantón Paraíso, Provincia Cartago, 30202, Costa Rica","(9.8694792, -83.7980749)",9.8694792,-83.7980749
+494,"São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil","(-23.5506507, -46.6333824)",-23.5506507,-46.6333824
+497,"Seattle, King County, Washington, United States of America","(47.6038321, -122.3300624)",47.6038321,-122.3300624
+500,"서울, 대한민국","(37.5666791, 126.9782914)",37.5666791,126.9782914
+502,"Spokane, Spokane County, Washington, United States of America","(47.6579425, -117.4212265)",47.6579425,-117.4212265
+505,"St. Louis, City of Saint Louis, Missouri, United States of America","(38.6268039, -90.1994097)",38.6268039,-90.1994097
+508,"Stockholm, Stockholms kommun, Stockholms län, Svealand, 111 29, Sverige","(59.3251172, 18.0710935)",59.3251172,18.0710935
+511,"Stuttgart, Baden-Württemberg, Deutschland","(48.7784485, 9.1800132)",48.7784485,9.1800132
+514,"Sydney, New South Wales, Australia","(-33.8548157, 151.2164539)",-33.8548157,151.2164539
+517,"Tacoma, Pierce County, Washington, United States of America","(47.2495798, -122.4398746)",47.2495798,-122.4398746
+520,"臺中市, 西屯區, 臺中市, 40701, Taiwan","(24.163162, 120.6478282)",24.163162,120.6478282
+523,"臺北市, 信義區, 臺北市, 11008, Taiwan","(25.0375198, 121.5636796)",25.0375198,121.5636796
+526,"Tampa, Hillsborough County, Florida, United States of America","(27.9477595, -82.458444)",27.9477595,-82.458444
+529,"תל אביב-יפו, מחוז תל אביב, ישראל","(32.0804808, 34.7805274)",32.0804808,34.7805274
+531,"Tijuana, Municipio de Tijuana, Baja California, 22105, México","(32.5010188, -116.9646629)",32.5010188,-116.9646629
+533,"東京都, 日本 (Japan)","(35.6828387, 139.7594549)",35.6828387,139.7594549
+536,"Toledo, Castilla-La Mancha, España","(39.8560679, -4.0239568)",39.8560679,-4.0239568
+539,"Toronto, Golden Horseshoe, Ontario, M5H 2N2, Canada","(43.6534817, -79.3839347)",43.6534817,-79.3839347
+542,"Toulouse, Haute-Garonne, Occitanie, France métropolitaine, France","(43.6044622, 1.4442469)",43.6044622,1.4442469
+545,"Tucson, Pima County, Arizona, United States of America","(32.2228765, -110.9748477)",32.2228765,-110.9748477
+548,"Tulsa, Tulsa County, Oklahoma, United States of America","(36.1556805, -95.9929113)",36.1556805,-95.9929113
+551,"Utrecht, Nederland","(52.0949753, 5.109708)",52.0949753,5.109708
+554,"Vancouver, Metro Vancouver Regional District, British Columbia, Canada","(49.2608724, -123.1139529)",49.2608724,-123.1139529
+557,"Ventura County, California, United States of America","(34.4458248, -119.0779359)",34.4458248,-119.0779359
+560,"Wien, Österreich","(48.2083537, 16.3725042)",48.2083537,16.3725042
+562,"Virginia Beach, Virginia, United States of America","(36.8529841, -75.9774183)",36.8529841,-75.9774183
+565,"Washington, District of Columbia, 20500, United States of America","(38.8949855, -77.0365708)",38.8949855,-77.0365708
+568,"Zürich, Bezirk Zürich, Zürich, Switzerland","(47.3723941, 8.5423328)",47.3723941,8.5423328
+571,"Abruzzo, Avenida Quinta, Setor Leste Vila Nova, Goiânia, Microrregião de Goiânia, Região Geográfica Intermediária de Goiânia, Goiás, Região Centro-Oeste, 74605080, Brasil","(-16.6670993, -49.2448938)",-16.6670993,-49.2448938
+572,"עכו, מחוז הצפון, ישראל","(32.9281731, 35.0756378)",32.9281731,35.0756378
+573,"Aguascalientes, México","(22.0000001, -102.5000001)",22.0000001,-102.5000001
+574,"愛知県, 日本 (Japan)","(34.9991645, 137.254574)",34.9991645,137.254574
+575,"秋田県, 日本 (Japan)","(39.6898802, 140.342608)",39.6898802,140.342608
+576,"Alabama, United States of America","(33.2588817, -86.8295337)",33.2588817,-86.8295337
+577,"Alagoas, Região Nordeste, Brasil","(-9.6611661, -36.6502426)",-9.6611661,-36.6502426
+578,"Alaska, United States of America","(64.4459613, -149.680909)",64.4459613,-149.680909
+579,"Alberta, Canada","(55.001251, -115.002136)",55.001251,-115.002136
+580,"Maison de la Région, Rue Jean Wenger-Valentin, Wacken, Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, 67070, France","(48.59890325, 7.759893883680613)",48.59890325,7.759893883680613
+581,"Amapá, Região Norte, Brasil","(1.3545442, -51.9161977)",1.3545442,-51.9161977
+582,"Amazonas, Região Norte, Brasil","(-4.479925, -63.5185396)",-4.479925,-63.5185396
+583,"จังหวัดอำนาจเจริญ, ประเทศไทย","(15.9949473, 104.7328575)",15.9949473,104.7328575
+584,"Andalucía, España","(37.3399964, -4.5811614)",37.3399964,-4.5811614
+585,"จังหวัดอ่างทอง, ประเทศไทย","(14.6495224, 100.3170382)",14.6495224,100.3170382
+586,"Región de Antofagasta, Chile","(-23.6041314, -69.0842783)",-23.6041314,-69.0842783
+587,"Antwerpen, Vlaanderen, België - Belgique - Belgien","(51.2211097, 4.3997081)",51.2211097,4.3997081
+588,"青森県, 日本 (Japan)","(40.886943, 140.590121)",40.886943,140.590121
+589,"Apúlia, Apúlia e Fão, Esposende, Braga, Cávado, Norte, 4740-053, Portugal","(41.4841881, -8.758636863988851)",41.4841881,-8.758636863988851
+590,"The Aquitaine, Aquitaine Avenue, Lisgar, Meadowvale, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5N 4B7, Canada","(43.58390665, -79.76332704457579)",43.58390665,-79.76332704457579
+591,"Aragón, España","(41.3787291, -0.7639373)",41.3787291,-0.7639373
+592,"Región de la Araucanía, Chile","(-38.6710116, -72.2564576)",-38.6710116,-72.2564576
+593,"Región de Arica y Parinacota, Chile","(-18.5918514, -69.7586083)",-18.5918514,-69.7586083
+594,"Arizona, United States of America","(34.395342, -111.7632755)",34.395342,-111.7632755
+595,"Arkansas, United States of America","(35.2048883, -92.4479108)",35.2048883,-92.4479108
+596,"Asturias / Asturies, España","(43.271087800000004, -5.854145744587305)",43.271087800000004,-5.854145744587305
+597,"Región de Atacama, Chile","(-27.5571783, -70.0156882)",-27.5571783,-70.0156882
+598,"Auckland Avenue, Central Erin Mills, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5M 7L2, Canada","(43.5395761, -79.7199476)",43.5395761,-79.7199476
+599,"Australian Capital Territory, Australia","(-35.4883502, 149.0026942)",-35.4883502,149.0026942
+604,"Auvergne, Victoria-Daly Region, Northern Territory, Australia","(-15.6834315, 130.0092471)",-15.6834315,130.0092471
+606,"Baden-Württemberg, Deutschland","(48.6296972, 9.1949534)",48.6296972,9.1949534
+607,"Bahia, Região Nordeste, Brasil","(-12.285251, -41.9294776)",-12.285251,-41.9294776
+608,Guernsey,"(49.579520200000005, -2.5290434448309886)",49.579520200000005,-2.5290434448309886
+609,Jersey,"(49.2214561, -2.1358386)",49.2214561,-2.1358386
+610,"Baja California, México","(30.0338923, -115.1425107)",30.0338923,-115.1425107
+611,"Baja California Sur, México","(25.5818014, -111.5706164)",25.5818014,-111.5706164
+612,"Illes Balears, España","(39.6134018, 2.8804305326400756)",39.6134018,2.8804305326400756
+613,"Banská Bystrica, okres Banská Bystrica, Banskobystrický kraj, Stredné Slovensko, Slovensko","(48.73892565, 19.161761062520938)",48.73892565,19.161761062520938
+614,"Baranya megye, Dél-Dunántúl, Dunántúl, Magyarország","(45.9714436, 18.1669246)",45.9714436,18.1669246
+615,"Basilicata, Rua Treze de Maio, Bixiga, Bela Vista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01327-000, Brasil","(-23.5585487, -46.6465544)",-23.5585487,-46.6465544
+616,"Basque, Astarloa kalea, Abando, Bilbao, Bilboaldea, Bizkaia, Euskadi, 01232, España","(43.2630054, -2.9311344)",43.2630054,-2.9311344
+617,"Bayern, Deutschland","(48.9467562, 11.4038717)",48.9467562,11.4038717
+619,"Región del Biobío, Chile","(-37.3391407, -72.4106825)",-37.3391407,-72.4106825
+620,"Blekinge län, Götaland, Sverige","(56.12401225, 15.402123955552621)",56.12401225,15.402123955552621
+621,"Borsod-Abaúj-Zemplén megye, Észak-Magyarország, Alföld és Észak, Magyarország","(48.2397936, 21.1353474)",48.2397936,21.1353474
+622,"Brandenburg, Deutschland","(52.8455492, 13.2461296)",52.8455492,13.2461296
+623,"Bratislava, Bratislavský kraj, Slovensko","(48.1516988, 17.1093063)",48.1516988,17.1093063
+624,"British Columbia, Canada","(55.001251, -125.002441)",55.001251,-125.002441
+625,"Brittany, Avenida Centenário, Jardim Apipema, Barra, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40140-902, Brasil","(-13.0070124, -38.5249879)",-13.0070124,-38.5249879
+626,"จังหวัดบึงกาฬ, ประเทศไทย","(18.2329562, 103.8267114)",18.2329562,103.8267114
+627,"Burgenland, Österreich","(47.5000001, 16.4166666)",47.5000001,16.4166666
+628,"Burgundy, Camella Homes 3, Don Bosco, Parañaque, NCR, Fourth District, Metro Manila, 1711, Philippines","(14.4767869, 121.0208487)",14.4767869,121.0208487
+629,"จังหวัดบุรีรัมย์, ประเทศไทย","(14.6107101, 102.6453162)",14.6107101,102.6453162
+630,"부산, 대한민국","(35.1799528, 129.0752365)",35.1799528,129.0752365
+631,"Bács-Kiskun megye, Dél-Alföld, Alföld és Észak, Magyarország","(46.5809294, 19.5128532)",46.5809294,19.5128532
+632,"Békés megye, Dél-Alföld, Alföld és Észak, Magyarország","(46.7862993, 20.9820736)",46.7862993,20.9820736
+633,"Calabria, Caaguazú, Región Oriental, 3640, Paraguay","(-25.4212188, -55.4055149)",-25.4212188,-55.4055149
+634,"California, United States of America","(36.7014631, -118.7559974)",36.7014631,-118.7559974
+635,"Campania, Tåsingegade, Indre Østerbro, Østerbro, København, Københavns Kommune, Region Hovedstaden, 2100, Danmark","(55.7098759, 12.5721012)",55.7098759,12.5721012
+636,"Campeche, México","(19.329205549999998, -89.9439148263377)",19.329205549999998,-89.9439148263377
+637,"Canarias, La Orotava, Santa Cruz de Tenerife, Canarias, España","(28.2935785, -16.621447121144122)",28.2935785,-16.621447121144122
+638,"Cantabria, España","(43.1595664, -4.0878382)",43.1595664,-4.0878382
+639,"Canterbury, Gran Bretaña, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile","(-33.402718, -70.5416593)",-33.402718,-70.5416593
+640,"Reservoir Lägern, Sandacherstrasse, Niederweningen, Bezirk Dielsdorf, Zürich, 8166, Switzerland","(47.5022635, 8.368124315946929)",47.5022635,8.368124315946929
+645,"Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Switzerland","(46.9482713, 7.4514512)",46.9482713,7.4514512
+646,"Fribourg, District de la Sarine, Fribourg/Freiburg, 1701, Switzerland","(46.8030044, 7.1512891)",46.8030044,7.1512891
+647,"Genève, Switzerland","(46.2017559, 6.1466014)",46.2017559,6.1466014
+648,"Glarus, Switzerland","(47.0422116, 9.0674041)",47.0422116,9.0674041
+649,"Cant, Bregaglia, Maloja, Graubünden/Grigioni/Grischun, 7608, Switzerland","(46.3207937, 9.5318825)",46.3207937,9.5318825
+650,"Le Jura, Haute-Ajoie, District de Porrentruy, Jura, 2906, Switzerland","(47.3907441, 6.9921783)",47.3907441,6.9921783
+651,"Luzern, Switzerland","(47.0505452, 8.3054682)",47.0505452,8.3054682
+652,"Neuchâtel, District de Neuchâtel, Neuchâtel, Switzerland","(46.9895828, 6.9292641)",46.9895828,6.9292641
+655,"Schaffhausen, Switzerland","(47.6960491, 8.634513)",47.6960491,8.634513
+656,"Schwyz, Switzerland","(47.0211848, 8.6535598)",47.0211848,8.6535598
+657,"Solothurn, Bezirk Solothurn, Amtei Solothurn-Lebern, Solothurn, Switzerland","(47.2081355, 7.5384045)",47.2081355,7.5384045
+658,"St. Gallen, Wahlkreis St. Gallen, Sankt Gallen, Switzerland","(47.4250593, 9.3765878)",47.4250593,9.3765878
+659,"Müller-Thurgau-Strasse, Egg, Wädenswil, Bezirk Horgen, Zürich, 8820, Switzerland","(47.2208832, 8.6774281)",47.2208832,8.6774281
+660,"Ticino, Giornico, Circolo di Giornico, Distretto di Leventina, Ticino, 6745, Switzerland","(46.4026434, 8.8747181)",46.4026434,8.8747181
+661,"Uri, Via Albonago, REKA Feriendorf Albonago, Albonago, Circolo di Lugano est, Lugano, Distretto di Lugano, Ticino, 6962, Switzerland","(46.011757149999994, 8.974556405679191)",46.011757149999994,8.974556405679191
+662,"Valais, Vigneux-de-Bretagne, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44360, France","(47.3184127, -1.6816366)",47.3184127,-1.6816366
+663,"Le Vaud, District de Nyon, Vaud, 1261, Switzerland","(46.4774891, 6.2355007)",46.4774891,6.2355007
+664,"Züg, Kunkelsstrasse, Pfäfers, Wahlkreis Sarganserland, Sankt Gallen, 7315, Switzerland","(46.896312, 9.42814)",46.896312,9.42814
+666,"Region Hovedstaden, Danmark","(55.86170985, 12.313743483194546)",55.86170985,12.313743483194546
+667,"Kärnten, Österreich","(46.7500001, 13.8333333)",46.7500001,13.8333333
+668,"County Carlow, Leinster, Ireland","(52.69053605, -6.8250188975846555)",52.69053605,-6.8250188975846555
+669,"Castilla y León, España","(41.8037172, -4.7471726)",41.8037172,-4.7471726
+670,"Castilla-La Mancha, España","(39.4177902, -2.6232332)",39.4177902,-2.6232332
+671,"Catalunya, España","(41.8523094, 1.5745043)",41.8523094,1.5745043
+672,"Cavan, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22140, France","(48.6721731, -3.3457423)",48.6721731,-3.3457423
+673,"Ceará, Região Nordeste, Brasil","(-5.3264703, -39.7156073)",-5.3264703,-39.7156073
+674,"Bohemian, 17-50, İskele, Behramkale (Assos), Ayvacik, Çanakkale, Marmara Bölgesi, Türkiye","(39.4919863, 26.3340359)",39.4919863,26.3340359
+675,"Region Midtjylland, Danmark","(56.23564835, 9.234602771636588)",56.23564835,9.234602771636588
+676,"Central District, Botswana","(-21.4790187, 26.2154174)",-21.4790187,26.2154174
+677,"Keski-Suomi, Manner-Suomi, Suomi","(62.53101395, 25.50568325133171)",62.53101395,25.50568325133171
+678,"Keski-Pohjanmaa, Manner-Suomi, Suomi","(63.6476557, 24.111411271292845)",63.6476557,24.111411271292845
+679,"Благоевград, България","(41.750223500000004, 23.487047631287865)",41.750223500000004,23.487047631287865
+680,"Ceuta, España","(35.888361, -5.304138)",35.888361,-5.304138
+681,"จังหวัดฉะเชิงเทรา, ประเทศไทย","(13.6093192, 101.5467201)",13.6093192,101.5467201
+682,"จังหวัดชัยนาท, ประเทศไทย","(15.1453182, 99.9010244)",15.1453182,99.9010244
+683,"จังหวัดชัยภูมิ, ประเทศไทย","(16.2720349, 101.7153824)",16.2720349,101.7153824
+685,"จังหวัดจันทบุรี, ประเทศไทย","(12.8264362, 102.3152919)",12.8264362,102.3152919
+686,"จังหวัดเชียงใหม่, ประเทศไทย","(18.6951714, 98.4462684)",18.6951714,98.4462684
+687,"จังหวัดเชียงราย, ประเทศไทย","(19.732084450000002, 99.88474372876234)",19.732084450000002,99.88474372876234
+688,"Chiapas, México","(16.5000001, -92.5000001)",16.5000001,-92.5000001
+689,"千葉県, 日本 (Japan)","(35.549399, 140.2647303)",35.549399,140.2647303
+690,"Chihuahua, México","(28.5000001, -106.0000001)",28.5000001,-106.0000001
+691,"จังหวัดชลบุรี, ประเทศไทย","(13.1857117, 101.1210777)",13.1857117,101.1210777
+692,"จังหวัดชุมพร, ประเทศไทย","(10.3782724, 99.0077685)",10.3782724,99.0077685
+693,"충청북도, 대한민국","(36.6357, 127.4915)",36.6357,127.4915
+694,"충청남도, 대한민국","(36.6593, 126.6729)",36.6593,126.6729
+695,"County Clare, Munster, Ireland","(52.857257450000006, -8.937435925994537)",52.857257450000006,-8.937435925994537
+696,"Coahuila de Zaragoza, México","(27.3333331, -102.0000001)",27.3333331,-102.0000001
+697,"Colima, México","(19.166667, -104.0)",19.166667,-104.0
+698,"Colorado, United States of America","(38.7251776, -105.6077167)",38.7251776,-105.6077167
+699,"Comunidad de Madrid, España","(40.5248319, -3.7715627754518115)",40.5248319,-3.7715627754518115
+700,"Connecticut, United States of America","(41.6500201, -72.7342163)",41.6500201,-72.7342163
+701,"Región de Coquimbo, Chile","(-30.7546652, -70.9005536)",-30.7546652,-70.9005536
+702,"Cork, Cork City 2019, County Cork, Munster, T12 EE6N, Ireland","(51.8979282, -8.4705806)",51.8979282,-8.4705806
+703,"Corsica, Zilverberklaan, Beerzel, Putte, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien","(51.07580455, 4.669974449481021)",51.07580455,4.669974449481021
+704,"Csongrád megye, Dél-Alföld, Alföld és Észak, Magyarország","(46.4515164, 20.2277606)",46.4515164,20.2277606
+705,"대구, 대한민국","(35.8713, 128.6018)",35.8713,128.6018
+706,"Dalarnas län, Svealand, Sverige","(61.060377849999995, 14.215087316959057)",61.060377849999995,14.215087316959057
+707,"Delaware, United States of America","(38.6920451, -75.4013315)",38.6920451,-75.4013315
+709,"Distrito Federal, Região Centro-Oeste, Brasil","(-15.7754462, -47.7970891)",-15.7754462,-47.7970891
+710,"County Donegal, Ireland","(54.92075415, -7.95238521465131)",54.92075415,-7.95238521465131
+711,"Drenthe, Nederland","(52.9067922, 6.6368423)",52.9067922,6.6368423
+712,"Durango, México","(24.833333, -104.833333)",24.833333,-104.833333
+713,"Flanders, Suffolk County, New York, United States of America","(40.895543599999996, -72.59844358117489)",40.895543599999996,-72.59844358117489
+714,"Eastern Cape, South Africa","(-32.2171831, 26.6386401)",-32.2171831,26.6386401
+715,"愛媛県, 日本 (Japan)","(33.6013646, 132.8185275)",33.6013646,132.8185275
+716,"Romagna, Modigliana, Unione di Comuni della Romagna Forlivese, Forlì-Cesena, Emilia-Romagna, 47015, Italia","(44.13497265, 11.847319102240142)",44.13497265,11.847319102240142
+717,"England, United Kingdom","(52.7954791, -0.5402402866174321)",52.7954791,-0.5402402866174321
+718,"Espírito Santo, Região Sudeste, Brasil","(-19.5687682, -40.1721991)",-19.5687682,-40.1721991
+719,"Extremadura, España","(39.1748426, -6.1529891)",39.1748426,-6.1529891
+720,"Fejér megye, Közép-Dunántúl, Dunántúl, Magyarország","(47.0939434, 18.6088562)",47.0939434,18.6088562
+721,"Brabant, Drink, Sint-Pieters-Voeren, Voeren, Limburg, Vlaanderen, 3792, België - Belgique - Belgien","(50.7263212, 5.8228954)",50.7263212,5.8228954
+722,"Flevoland, Nederland","(52.4484375, 5.4235397)",52.4484375,5.4235397
+723,"Florida, United States of America","(27.7567667, -81.4639835)",27.7567667,-81.4639835
+724,"Chambre de Commerce et de l'Industrie - Région Bourgogne-Franche-Comté, Route du Pont Jeanne Rose, Cité Russe, Ferme d'Avoise, Montchanin, Autun, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71210, France","(46.7532131, 4.4914341)",46.7532131,4.4914341
+725,"Free State, South Africa","(-28.7853618, 26.4978933)",-28.7853618,26.4978933
+726,"Fryslân, Nederland","(53.0923689, 5.777043)",53.0923689,5.777043
+727,"178, 民權路, 西門里, 金城鎮, 福建省, 89350, Taiwan","(24.4377289, 118.318483)",24.4377289,118.318483
+728,"福井県, 日本 (Japan)","(35.9263502, 136.6068127)",35.9263502,136.6068127
+730,"福島県, 日本 (Japan)","(37.3665245, 140.26338776513376)",37.3665245,140.26338776513376
+731,"Galicia / Galiza, España","(42.61946, -7.863112)",42.61946,-7.863112
+732,"Cathair na Gaillimhe, County Galway, Connacht, Ireland","(53.2744122, -9.0490632)",53.2744122,-9.0490632
+733,"강원도, 대한민국","(37.885, 127.7297)",37.885,127.7297
+734,"Gauteng, South Africa","(-25.9363439, 28.0813105)",-25.9363439,28.0813105
+735,"Gelderland, Nederland","(52.1014041, 5.9515701)",52.1014041,5.9515701
+736,"Georgia, United States of America","(32.3293809, -83.1137366)",32.3293809,-83.1137366
+737,"岐阜県, 日本 (Japan)","(35.7867449, 137.0460777)",35.7867449,137.0460777
+738,"Gisborne Point, Rotoiti, Rotorua District, Bay of Plenty, 3074, New Zealand","(-38.0532913, 176.452458)",-38.0532913,176.452458
+739,"Goiás, Região Centro-Oeste, Brasil","(-15.9323662, -50.1392928)",-15.9323662,-50.1392928
+740,"Gotlands län, Götaland, Sverige","(57.6783173, 18.638463586098844)",57.6783173,18.638463586098844
+741,"Poland Street, Ancoats, Collyhurst, Manchester, Greater Manchester, North West England, England, M4 6BR, United Kingdom","(53.4863668, -2.2254734)",53.4863668,-2.2254734
+743,"Groningen, Nederland","(53.2190652, 6.5680077)",53.2190652,6.5680077
+744,"Guam, Chalan Pago-Ordot Municipality, Guam, United States of America","(13.450125700000001, 144.75755102972062)",13.450125700000001,144.75755102972062
+745,"Guanajuato, México","(20.9876996, -101.0)",20.9876996,-101.0
+746,"Guerrero, México","(17.666667, -100.0)",17.666667,-100.0
+747,"群馬県, 日本 (Japan)","(36.52198, 139.033483)",36.52198,139.033483
+748,"광주, 대한민국","(35.1595775, 126.8515089)",35.1595775,126.8515089
+749,"경기도, 대한민국","(37.2752, 127.0095)",37.2752,127.0095
+750,"경상북도, 대한민국","(36.5754, 128.5058)",36.5754,128.5058
+751,"경상남도, 대한민국","(35.2382, 128.6925)",35.2382,128.6925
+752,"Győr-Moson-Sopron megye, Nyugat-Dunántúl, Dunántúl, Magyarország","(47.6610134, 17.3796437)",47.6610134,17.3796437
+753,"Gävleborgs län, Norrland, Sverige","(61.26138005, 16.698710112152167)",61.26138005,16.698710112152167
+754,"מחוז חיפה, ישראל","(32.62574995, 34.98251402462225)",32.62574995,34.98251402462225
+755,"Province de Hainaut - Site du Delta, La Masure, Mons, Hainaut, Wallonie, België - Belgique - Belgien","(50.44318785, 3.9452193726945244)",50.44318785,3.9452193726945244
+756,"Hajdú-Bihar megye, Észak-Alföld, Alföld és Észak, Magyarország","(47.4407848, 21.4752281)",47.4407848,21.4752281
+757,"Hallands län, Götaland, Sverige","(56.96045925, 12.807325812324002)",56.96045925,12.807325812324002
+758,"Hawaii, United States of America","(21.2160437, -157.975203)",21.2160437,-157.975203
+760,"Hessen, Deutschland","(50.6118537, 9.1909725)",50.6118537,9.1909725
+761,"Heves megye, Észak-Magyarország, Alföld és Észak, Magyarország","(47.7884409, 20.1714412)",47.7884409,20.1714412
+762,"Hidalgo, México","(20.5, -99.0)",20.5,-99.0
+763,"広島県, 日本 (Japan)","(34.5666725, 132.753565)",34.5666725,132.753565
+764,"北海道, 日本 (Japan)","(43.4519831, 142.8197834)",43.4519831,142.8197834
+765,"Hradec Králové, okres Hradec Králové, Královéhradecký kraj, Severovýchod, Česká republika","(50.2094963, 15.832719)",50.2094963,15.832719
+766,"兵庫県, 日本 (Japan)","(34.914934, 134.860666)",34.914934,134.860666
+767,"茨城県, 日本 (Japan)","(36.2869536, 140.4703384)",36.2869536,140.4703384
+768,"Idaho, United States of America","(43.6447642, -114.0154071)",43.6447642,-114.0154071
+769,"Illinois, United States of America","(40.0796606, -89.4337288)",40.0796606,-89.4337288
+770,"인천, 대한민국","(37.456, 126.7052)",37.456,126.7052
+771,"Indiana, United States of America","(40.3270127, -86.1746933)",40.3270127,-86.1746933
+772,"Iowa, United States of America","(41.9216734, -93.3122705)",41.9216734,-93.3122705
+773,"石川県, 日本 (Japan)","(36.9888678, 136.8163563)",36.9888678,136.8163563
+774,"Isle of Man, Braddan, Middle, United Kingdom","(54.2358167, -4.514598745698255)",54.2358167,-4.514598745698255
+775,"岩手県, 日本 (Japan)","(39.5713763, 141.4253574)",39.5713763,141.4253574
+776,"Jalisco, México","(20.3333331, -103.6666671)",20.3333331,-103.6666671
+777,"제주특별자치도, 대한민국","(33.4887737, 126.4987083)",33.4887737,126.4987083
+778,"전라북도, 대한민국","(35.8198999, 127.109)",35.8198999,127.109
+779,"전라남도, 대한민국","(34.8159, 126.4629)",34.8159,126.4629
+780,"מחוז ירושלים, ישראל","(31.742825349999997, 35.06406904318189)",31.742825349999997,35.06406904318189
+781,"Jász-Nagykun-Szolnok megye, Észak-Alföld, Alföld és Észak, Magyarország","(47.2971598, 20.453178)",47.2971598,20.453178
+782,"Jämtlands län, Norrland, Sverige","(63.345222199999995, 14.124985984451182)",63.345222199999995,14.124985984451182
+783,"Jönköpings län, Götaland, Sverige","(57.535426, 14.641181601671247)",57.535426,14.641181601671247
+784,"香川県, 日本 (Japan)","(34.2480104, 134.0586579)",34.2480104,134.0586579
+785,"鹿児島県, 日本 (Japan)","(31.521587, 130.5474077)",31.521587,130.5474077
+786,"Kainuu, Manner-Suomi, Suomi","(64.59873065, 28.300198845857643)",64.59873065,28.300198845857643
+787,"กาฬสินธุ์, จังหวัดกาฬสินธุ์, ประเทศไทย","(16.4320082, 103.506929)",16.4320082,103.506929
+788,"Kalmar län, Götaland, Sverige","(57.02784235, 16.57526801061616)",57.02784235,16.57526801061616
+789,"จังหวัดกำแพงเพชร, ประเทศไทย","(16.4183581, 99.6111616)",16.4183581,99.6111616
+790,"神奈川県, 日本 (Japan)","(35.4342935, 139.374753)",35.4342935,139.374753
+791,"จังหวัดกาญจนบุรี, ประเทศไทย","(14.44019, 99.2676727)",14.44019,99.2676727
+792,"Kansas, United States of America","(38.27312, -98.5821872)",38.27312,-98.5821872
+793,"Kanta-Häme, Manner-Suomi, Suomi","(60.93769605, 24.15319200958258)",60.93769605,24.15319200958258
+794,"高雄市, Taiwan","(22.6203348, 120.3120375)",22.6203348,120.3120375
+795,"Karlovy Vary, okres Karlovy Vary, Karlovarský kraj, Severozápad, Česká republika","(50.2304694, 12.8710769)",50.2304694,12.8710769
+796,"Kentucky, United States of America","(37.5726028, -85.1551411)",37.5726028,-85.1551411
+797,"County Kerry, Munster, Ireland","(52.14533445, -9.517401092833236)",52.14533445,-9.517401092833236
+798,"จังหวัดขอนแก่น, ประเทศไทย","(16.6022387, 102.6352933)",16.6022387,102.6352933
+799,"County Kildare, Leinster, Ireland","(53.15436455, -6.8184175660976445)",53.15436455,-6.8184175660976445
+800,"Kilkenny, The Municipal District of Kilkenny City, County Kilkenny, Leinster, Ireland","(52.6510216, -7.2484948)",52.6510216,-7.2484948
+801,"高知県, 日本 (Japan)","(33.6569018, 133.5606241)",33.6569018,133.5606241
+802,"Komárom-Esztergom megye, Közép-Dunántúl, Dunántúl, Magyarország","(47.6511599, 18.2551911)",47.6511599,18.2551911
+803,"Košice, Košický kraj, Východné Slovensko, 04151, Slovensko","(48.7172272, 21.2496774)",48.7172272,21.2496774
+804,"จังหวัดกระบี่, ประเทศไทย","(8.1111653, 99.1097298)",8.1111653,99.1097298
+805,"Kronobergs län, Götaland, Sverige","(56.80067805, 14.411160995108743)",56.80067805,14.411160995108743
+807,"熊本県, 日本 (Japan)","(32.6450475, 130.6341345)",32.6450475,130.6341345
+808,"KwaZulu-Natal, South Africa","(-28.503833, 30.8875009)",-28.503833,30.8875009
+809,"Kymenlaakso, Manner-Suomi, Suomi","(60.7318529, 27.082883965665257)",60.7318529,27.082883965665257
+810,"京都府, 日本 (Japan)","(35.0638898, 135.736676)",35.0638898,135.736676
+811,"La Rioja, España","(42.3285528, -2.4674917)",42.3285528,-2.4674917
+812,"จังหวัดลำปาง, ประเทศไทย","(18.6799728, 99.7332501)",18.6799728,99.7332501
+813,"จังหวัดลำพูน, ประเทศไทย","(18.2661422, 98.96749)",18.2661422,98.96749
+814,"Languedoc, Saint Mary, Middlesex County, Jamaika","(18.3818342, -77.021327)",18.3818342,-77.021327
+815,"Ireland, Laois, Athlone Municipal District, County Roscommon, Connacht, Ireland","(52.998490450000006, -7.377700166944578)",52.998490450000006,-7.377700166944578
+816,"Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, Suomi","(68.51629745, 26.69070393485068)",68.51629745,26.69070393485068
+817,"Лазьё, Потокский сельский Совет, Кличевский район, Могилёвская область, Беларусь","(53.43819, 29.371519)",53.43819,29.371519
+818,"County Leitrim, Connacht, Ireland","(54.140162200000006, -8.052478216276088)",54.140162200000006,-8.052478216276088
+819,"województwo małopolskie, Polska","(49.790952, 20.3793521)",49.790952,20.3793521
+820,"Liberec, okres Liberec, Liberecký kraj, Severovýchod, Česká republika","(50.7702648, 15.0583947)",50.7702648,15.0583947
+821,"Libertador General Bernardo O'Higgins, Población Río Palena, Reñaca, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2510513, Chile","(-32.9709026, -71.5320569)",-32.9709026,-71.5320569
+822,"Liguria, Ciudad del Sol, Puente Alto, Provincia de Cordillera, Región Metropolitana de Santiago, 8150000, Chile","(-33.5968501, -70.582056)",-33.5968501,-70.582056
+823,"Limburg, Nederland","(51.2015196, 5.9046302)",51.2015196,5.9046302
+824,"Limberg, Badener Hof, Linsenbuckel, Heilbronn, Baden-Württemberg, 74074, Deutschland","(49.1244934, 9.2312863)",49.1244934,9.2312863
+825,"Limerick, County Limerick, Munster, V94 A9NX, Ireland","(52.661252, -8.6301239)",52.661252,-8.6301239
+826,"Limousin, Schorestraat, Schore, Middelkerke, West-Vlaanderen, Vlaanderen, 8433, België - Belgique - Belgien","(51.0993053, 2.826549899560868)",51.0993053,2.826549899560868
+827,"Limpopo, South Africa","(-23.4735288, 29.3959199)",-23.4735288,29.3959199
+828,"李阁镇, 鱼台县 (Yutai), 济宁市, 山东省, China 中国","(35.0111077, 116.4739151)",35.0111077,116.4739151
+829,"województwo łódzkie, Polska","(51.4721678, 19.3460637)",51.4721678,19.3460637
+830,"จังหวัดเลย, ประเทศไทย","(17.3158563, 101.4638277)",17.3158563,101.4638277
+831,"Alpi e Prealpi Bergamasche, Oltre il Colle, Comunità Montana della Valle Brembana, Bergamo, Lombardia, Italia","(45.9194551, 9.766454408327606)",45.9194551,9.766454408327606
+832,"Longford, County Longford, Leinster, N39 V9W3, Ireland","(53.7278, -7.7963816)",53.7278,-7.7963816
+833,"จังหวัดลพบุรี, ประเทศไทย","(15.026458, 100.8089178)",15.026458,100.8089178
+834,"La Lorraine, Ninove, Oost-Vlaanderen, Vlaanderen, 9400, België - Belgique - Belgien","(50.8325703, 4.0107470044855855)",50.8325703,4.0107470044855855
+835,"Región de Los Lagos, Chile","(-42.300844, -73.105387)",-42.300844,-73.105387
+836,"Región de Los Ríos, Chile","(-39.9742911, -72.667478)",-39.9742911,-72.667478
+837,"Louisiana, United States of America","(30.8703881, -92.007126)",30.8703881,-92.007126
+838,"County Louth, Leinster, Ireland","(53.90628485, -6.532050201271116)",53.90628485,-6.532050201271116
+839,"Niederösterreich, Österreich","(48.2817813, 15.7632457)",48.2817813,15.7632457
+841,"Niedersachsen, Deutschland","(52.8398531, 9.075962)",52.8398531,9.075962
+842,"Silesia, Wojcieszów, powiat złotoryjski, województwo dolnośląskie, 59-550, Polska","(50.953797, 15.9151828)",50.953797,15.9151828
+843,"województwo lubelskie, Polska","(50.976229, 22.7991176)",50.976229,22.7991176
+844,"województwo lubuskie, Polska","(52.1001754, 15.3605075)",52.1001754,15.3605075
+845,"Luxembourg, The Legacy South, C.A.A. BF International, Las Piñas, 1st District, NCR, Fourth District, Metro Manila, 1744, Philippines","(14.4550645, 120.9950815)",14.4550645,120.9950815
+846,"Luxembourg, South Springville, Canlalay, Biñan, Laguna, Calabarzon, 4024, Philippines","(14.3390281, 121.0657067)",14.3390281,121.0657067
+847,"จังหวัดแม่ฮ่องสอน, ประเทศไทย","(19.3927456, 98.2031112)",19.3927456,98.2031112
+849,"จังหวัดมหาสารคาม, ประเทศไทย","(15.9041448, 103.0840638)",15.9041448,103.0840638
+850,"Maine, United States of America","(45.709097, -68.8590201)",45.709097,-68.8590201
+852,"Manitoba, Canada","(55.001251, -97.001038)",55.001251,-97.001038
+853,"Maranhão, Região Nordeste, Brasil","(-5.2085503, -45.3930262)",-5.2085503,-45.3930262
+854,"Marché, Theux, Liège, Wallonie, 4910, België - Belgique - Belgien","(50.5280641, 5.8204919)",50.5280641,5.8204919
+855,"Marlborough Woods, South End, Halifax, Halifax County, Nova Scotia, B3H 3P7, Canada","(44.6321081, -63.588481)",44.6321081,-63.588481
+856,"Maryland, United States of America","(39.5162234, -76.9382069)",39.5162234,-76.9382069
+857,"Massachusetts, United States of America","(42.3788774, -72.032366)",42.3788774,-72.032366
+858,"Mato Grosso, Região Centro-Oeste, Brasil","(-12.2115009, -55.5716547)",-12.2115009,-55.5716547
+859,"Mato Grosso do Sul, Região Centro-Oeste, Brasil","(-19.5852564, -54.4794731)",-19.5852564,-54.4794731
+860,"Región del Maule, Chile","(-35.5972284, -71.48868)",-35.5972284,-71.48868
+861,"County Mayo, Connacht, Ireland","(53.9087056, -9.298304863654256)",53.9087056,-9.298304863654256
+862,"województwo mazowieckie, Polska","(52.5461934, 21.2073404)",52.5461934,21.2073404
+863,"County Meath, Leinster, Ireland","(53.649784350000004, -6.588529492009938)",53.649784350000004,-6.588529492009938
+864,"Mecklenburg-Vorpommern, Deutschland","(53.7735234, 12.5755746)",53.7735234,12.5755746
+865,"Melilla, España","(35.2918698, -2.9409026)",35.2918698,-2.9409026
+866,"Michigan, United States of America","(43.6211955, -84.6824346)",43.6211955,-84.6824346
+867,"Michoacán de Ocampo, México","(19.207098, -101.878113)",19.207098,-101.878113
+869,"三重県, 日本 (Japan)","(34.7339685, 136.5154489)",34.7339685,136.5154489
+870,"Minas Gerais, Região Sudeste, Brasil","(-18.5264844, -44.1588654)",-18.5264844,-44.1588654
+871,"Minnesota, United States of America","(45.9896587, -94.6113288)",45.9896587,-94.6113288
+872,"Mississippi, United States of America","(32.9715645, -89.7348497)",32.9715645,-89.7348497
+873,"Missouri, United States of America","(38.7604815, -92.5617875)",38.7604815,-92.5617875
+874,"宮城県, 日本 (Japan)","(38.3880155, 140.9761025)",38.3880155,140.9761025
+875,"宮崎県, 日本 (Japan)","(32.097681, 131.294542)",32.097681,131.294542
+876,"Viale Molise, Zona delle Regioni, Porta Vittoria, Milano, Lombardia, 20137, Italia","(45.4599579, 9.2237076)",45.4599579,9.2237076
+877,"County Monaghan, Ireland","(54.161066399999996, -6.946364847585796)",54.161066399999996,-6.946364847585796
+878,"Montana, United States of America","(47.3752671, -109.6387579)",47.3752671,-109.6387579
+879,"Moravskoslezské inovační centrum Ostrava, a.s., Pustkovec, Ostrava, okres Ostrava-město, Moravskoslezský kraj, Moravskoslezsko, Česká republika","(49.83883545, 18.153614708783117)",49.83883545,18.153614708783117
+880,"Morelos, México","(18.75, -99.0)",18.75,-99.0
+881,"Mpumalanga, South Africa","(-26.276849, 30.1500153)",-26.276849,30.1500153
+882,"จังหวัดมุกดาหาร, ประเทศไทย","(16.6972385, 104.3470293)",16.6972385,104.3470293
+883,"長野県, 日本 (Japan)","(36.1143945, 138.0319015)",36.1143945,138.0319015
+884,"長崎県, 日本 (Japan)","(33.1154683, 129.7874339)",33.1154683,129.7874339
+885,"จังหวัดนครนายก, ประเทศไทย","(14.1494474, 101.2177459)",14.1494474,101.2177459
+886,"จังหวัดนครปฐม, ประเทศไทย","(13.8918425, 100.0165659)",13.8918425,100.0165659
+887,"จังหวัดนครพนม, ประเทศไทย","(17.1990989, 104.6089459)",17.1990989,104.6089459
+888,"จังหวัดนครราชสีมา, ประเทศไทย","(15.2241917, 101.9313754)",15.2241917,101.9313754
+889,"จังหวัดนครสวรรค์, ประเทศไทย","(15.7054772, 99.9288481)",15.7054772,99.9288481
+890,"จังหวัดนครศรีธรรมราช, ประเทศไทย","(8.6772337, 99.7309635)",8.6772337,99.7309635
+891,"نمور, الحم, مديرية عتمة, محافظة ذمار, اليَمَن al-Yaman","(14.49724, 44.07004)",14.49724,44.07004
+892,"จังหวัดน่าน, ประเทศไทย","(18.7544594, 100.624804)",18.7544594,100.624804
+893,"奈良県, 日本 (Japan)","(34.2963089, 135.8816819)",34.2963089,135.8816819
+894,"จังหวัดนราธิวาส, ประเทศไทย","(6.3210758, 101.5972971)",6.3210758,101.5972971
+895,"Navarra - Nafarroa, España","(42.61254875, -1.830787682991546)",42.61254875,-1.830787682991546
+896,"Nayarit, México","(21.8438765, -104.87148535201122)",21.8438765,-104.87148535201122
+897,"Nebraska, United States of America","(41.7370229, -99.5873816)",41.7370229,-99.5873816
+898,"Nelson, 7040, New Zealand","(-41.2710849, 173.2836756)",-41.2710849,173.2836756
+899,"Nevada, United States of America","(39.5158825, -116.8537227)",39.5158825,-116.8537227
+900,"New Brunswick, Canada","(46.500283, -66.750183)",46.500283,-66.750183
+901,"New Hampshire, United States of America","(43.4849133, -71.6553992)",43.4849133,-71.6553992
+902,"New Jersey, United States of America","(40.0757384, -74.4041622)",40.0757384,-74.4041622
+903,"New Mexico, United States of America","(34.5708167, -105.993007)",34.5708167,-105.993007
+904,"New South Wales, Australia","(-31.8759835, 147.2869493)",-31.8759835,147.2869493
+905,"新北市, 板橋區, 新北市, 22065, Taiwan","(25.011997, 121.4656619)",25.011997,121.4656619
+907,"Newfoundland and Labrador, Canada","(53.8217327, -61.2295532)",53.8217327,-61.2295532
+908,"新潟県, 日本 (Japan)","(37.6452283, 138.7669125)",37.6452283,138.7669125
+909,"Nitra, okres Nitra, Nitrianský kraj, Západné Slovensko, Slovensko","(48.31132705, 18.073211170535796)",48.31132705,18.073211170535796
+910,"จังหวัดหนองบัวลำภู, ประเทศไทย","(17.3521009, 102.2074566)",17.3521009,102.2074566
+911,"จังหวัดหนองคาย, ประเทศไทย","(17.9301421, 102.4649809)",17.9301421,102.4649809
+912,"จังหวัดนนทบุรี, ประเทศไทย","(13.8610918, 100.3456772)",13.8610918,100.3456772
+913,"Communauté de communes de la Région d'Audruicq, Calais, Pas-de-Calais, Hauts-de-France, France métropolitaine, France","(50.9124489, 2.072352322850611)",50.9124489,2.072352322850611
+914,"Norrbottens län, Norrland, Sverige","(66.9798719, 20.000300813027625)",66.9798719,20.000300813027625
+915,"Noord-Brabant, Nederland","(51.6017723, 5.4441391)",51.6017723,5.4441391
+916,"North Carolina, United States of America","(35.6729639, -79.0392919)",35.6729639,-79.0392919
+917,"North Dakota, United States of America","(47.6201461, -100.540737)",47.6201461,-100.540737
+918,"Region Nordjylland, Danmark","(56.8152793, 9.727330772696376)",56.8152793,9.727330772696376
+919,"Noord-Holland, Nederland","(52.7212825, 4.820665)",52.7212825,4.820665
+920,"Pohjois-Karjala, Manner-Suomi, Suomi","(62.8014085, 30.213455302117616)",62.8014085,30.213455302117616
+921,"Pohjois-Pohjanmaa, Manner-Suomi, Suomi","(64.9521512, 25.69705227344246)",64.9521512,25.69705227344246
+922,"Nordrhein-Westfalen, Deutschland","(51.4781796, 7.5542336)",51.4781796,7.5542336
+923,"Pohjois-Savo, Manner-Suomi, Suomi","(63.0883598, 27.53039484113765)",63.0883598,27.53039484113765
+925,"Northern Cape, South Africa","(-29.573402, 21.2051361)",-29.573402,21.2051361
+926,"Northern District, ရန်ကုန်တိုင်းဒေသကြီး, Myanmar","(16.94717585, 96.11330993765566)",16.94717585,96.11330993765566
+927,"Northern Ireland, United Kingdom","(54.6294982, -6.7654416)",54.6294982,-6.7654416
+928,"Northern Territory, Australia","(-19.8516101, 133.2303375)",-19.8516101,133.2303375
+930,"Northwest Territories, Canada","(65.0000004, -118.0)",65.0000004,-118.0
+931,"Nova Scotia, Canada","(45.1960403, -63.1653789)",45.1960403,-63.1653789
+932,"Nuevo León, México","(26.2384363, -99.8873)",26.2384363,-99.8873
+933,"Nunavut, Canada","(70.0000073, -90.0)",70.0000073,-90.0
+934,"Nógrád megye, Észak-Magyarország, Alföld és Észak, Magyarország","(47.9873616, 19.5472495)",47.9873616,19.5472495
+935,"Oaxaca, México","(17.0, -96.5)",17.0,-96.5
+936,"Offaly, Singapore Road, West Ealing, Hanwell, London Borough of Ealing, London, Greater London, England, W13 0UQ, United Kingdom","(51.510374549999995, -0.32726165713438005)",51.510374549999995,-0.32726165713438005
+937,"Ohio, United States of America","(40.2253569, -82.6881395)",40.2253569,-82.6881395
+938,"大分県, 日本 (Japan)","(33.1819875, 131.4270217)",33.1819875,131.4270217
+939,"岡山県, 日本 (Japan)","(34.8581334, 133.7759256)",34.8581334,133.7759256
+940,"沖縄県, 日本 (Japan)","(26.5707754, 128.0255901)",26.5707754,128.0255901
+941,"Oklahoma, United States of America","(34.9550817, -97.2684063)",34.9550817,-97.2684063
+942,"Olomoucký kraj, Střední Morava, Česká republika","(49.859105799999995, 16.956126746749305)",49.859105799999995,16.956126746749305
+943,"Ontario, Canada","(50.000678, -86.000977)",50.000678,-86.000977
+944,"województwo opolskie, Polska","(50.8918612, 17.9321175)",50.8918612,17.9321175
+945,"Oregon, United States of America","(43.9792797, -120.737257)",43.9792797,-120.737257
+947,"Österbotten, Manner-Suomi, Suomi","(62.96867215, 21.36251426194388)",62.96867215,21.36251426194388
+948,"Region, Maliyamungu, Kibombo, Maniema, République Démocratique du Congo","(-3.8672264, 25.9561282)",-3.8672264,25.9561282
+949,"Overijssel, Nederland","(52.4254143, 6.4610611)",52.4254143,6.4610611
+950,"Paraná, Região Sul, Brasil","(-24.4842187, -51.8148872)",-24.4842187,-51.8148872
+951,"Paraíba, Região Nordeste, Brasil","(-7.1219366, -36.7246845)",-7.1219366,-36.7246845
+952,"Pardubice, okres Pardubice, Pardubický kraj, Severovýchod, Česká republika","(50.0385812, 15.7791356)",50.0385812,15.7791356
+953,"Pará, Região Norte, Brasil","(-4.7493933, -52.8973006)",-4.7493933,-52.8973006
+954,"จังหวัดปทุมธานี, ประเทศไทย","(14.095578, 100.62772941819286)",14.095578,100.62772941819286
+955,"ปัตตานี, ประเทศไทย","(6.6997443, 101.3989917)",6.6997443,101.3989917
+956,"Région, Rue de la Loire, Île Beaulieu, Île de Nantes, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44272, France","(47.2107959, -1.5259477)",47.2107959,-1.5259477
+957,"Pennsylvania, United States of America","(40.9699889, -77.7278831)",40.9699889,-77.7278831
+958,"Pernambuco, Região Nordeste, Brasil","(-8.4116316, -37.5919699)",-8.4116316,-37.5919699
+959,"Le Pest, Sainte-Anne, Condom, Gers, Occitanie, France métropolitaine, 32430, France","(43.7445765, 0.979047)",43.7445765,0.979047
+960,"พังงา, จังหวัดพังงา, ประเทศไทย","(8.4439925, 98.5270295)",8.4439925,98.5270295
+961,"จังหวัดพัทลุง, ประเทศไทย","(7.499451199999999, 100.0490293902277)",7.499451199999999,100.0490293902277
+962,"จังหวัดพะเยา, ประเทศไทย","(19.341673, 100.1854539)",19.341673,100.1854539
+963,"จังหวัดเพชรบูรณ์, ประเทศไทย","(16.3293171, 100.9552749)",16.3293171,100.9552749
+964,"จังหวัดเพชรบุรี, ประเทศไทย","(13.0692869, 99.6044376)",13.0692869,99.6044376
+965,"จังหวัดพิจิตร, ประเทศไทย","(16.4551073, 100.1924695)",16.4551073,100.1924695
+966,"จังหวัดพิษณุโลก, ประเทศไทย","(17.0458608, 100.53112940961353)",17.0458608,100.53112940961353
+967,"จังหวัดพระนครศรีอยุธยา, ประเทศไทย","(14.39247395, 100.53658702455067)",14.39247395,100.53658702455067
+968,"จังหวัดแพร่, ประเทศไทย","(18.2930601, 100.0886757)",18.2930601,100.0886757
+969,"จังหวัดภูเก็ต, ประเทศไทย","(7.9366015, 98.3529292)",7.9366015,98.3529292
+970,"Piauí, Região Nordeste, Brasil","(-7.6992782, -42.5043787)",-7.6992782,-42.5043787
+971,"Communauté d'agglomération de la Région de Château-Thierry, Château-Thierry, Aisne, Hauts-de-France, France métropolitaine, France","(49.051527, 3.4406009609531676)",49.051527,3.4406009609531676
+972,"Piedmont, Sitio Ruby, Fairview, 5th District, Metro Manila, 1121, Philippines","(14.7079029, 121.0790065)",14.7079029,121.0790065
+973,"Plzeň, okres Plzeň-město, Plzeňský kraj, Jihozápad, Česká republika","(49.7477415, 13.3775249)",49.7477415,13.3775249
+974,"województwo podlaskie, Polska","(53.2668455, 22.8525787)",53.2668455,22.8525787
+975,"Direction régionale des finances publiques de la région Poitou-Charentes, Rue Riffault, Notre-Dame, Les Côteaux de Saint-Saturnin, Poitiers, Vienne, Nouvelle-Aquitaine, France métropolitaine, 86000, France","(46.583552749999996, 0.3462101889534866)",46.583552749999996,0.3462101889534866
+976,"Pomerania, Kaszubska, Centrum, Śródmieście, Szczecin, województwo zachodniopomorskie, 70-404, Polska","(53.4267305, 14.5493186)",53.4267305,14.5493186
+977,"จังหวัดปราจีนบุรี, ประเทศไทย","(14.1542055, 101.5547823)",14.1542055,101.5547823
+978,"จังหวัดประจวบคีรีขันธ์, ประเทศไทย","(12.0432669, 99.7487235)",12.0432669,99.7487235
+979,"Prešov, okres Prešov, Prešovský kraj, Východné Slovensko, Slovensko","(48.99594245, 21.246278792212447)",48.99594245,21.246278792212447
+980,"Prince Edward Island, Queens County, Prince Edward Island, Canada","(46.503545349999996, -63.595517139914485)",46.503545349999996,-63.595517139914485
+981,"Préalpes de Provence, Méounes-lès-Montrieux, Brignoles, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83136, France","(43.2766941, 5.970624570974376)",43.2766941,5.970624570974376
+982,"Puebla, México","(18.833333, -98.0)",18.833333,-98.0
+983,"Puerto Rico, Orocovis, Puerto Rico, United States of America","(18.2214149, -66.41328179513847)",18.2214149,-66.41328179513847
+984,"Päijät-Häme, Manner-Suomi, Suomi","(61.2297202, 25.810550681272005)",61.2297202,25.810550681272005
+985,"Québec, Canada","(52.4760892, -71.8258668)",52.4760892,-71.8258668
+986,"Queensland, Australia","(-22.1646782, 144.5844903)",-22.1646782,144.5844903
+987,"Querétaro, México","(20.8542575, -99.84756)",20.8542575,-99.84756
+988,"Quintana Roo, México","(19.6666671, -88.5000001)",19.6666671,-88.5000001
+989,"จังหวัดระนอง, ประเทศไทย","(10.0469546, 98.6870133)",10.0469546,98.6870133
+990,"จังหวัดราชบุรี, ประเทศไทย","(13.6317897, 99.3558216)",13.6317897,99.3558216
+991,"จังหวัดระยอง, ประเทศไทย","(12.7943716, 101.3705344)",12.7943716,101.3705344
+992,"Region Sjælland, Danmark","(55.48635875, 11.686667119352506)",55.48635875,11.686667119352506
+993,"Región de Murcia, España","(38.0634325, -1.6718004905591708)",38.0634325,-1.6718004905591708
+994,"Region Syddanmark, Danmark","(55.3784583, 9.13192766793894)",55.3784583,9.13192766793894
+995,"Rheinland-Pfalz, Deutschland","(49.9531599, 7.310646)",49.9531599,7.310646
+996,"Rhode Island, United States of America","(41.7962409, -71.5992372)",41.7962409,-71.5992372
+997,"Région de gendarmerie Auvergne-Rhône-Alpes, Sathonay-Camp, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69580, France","(45.82213395, 4.867425286620664)",45.82213395,4.867425286620664
+998,"Rio Grande do Norte, Região Nordeste, Brasil","(-5.6781175, -36.4781776)",-5.6781175,-36.4781776
+999,"Rio Grande do Sul, Região Sul, Brasil","(-29.8425284, -53.7680577)",-29.8425284,-53.7680577
+1001,"จังหวัดร้อยเอ็ด, ประเทศไทย","(15.7486448, 103.7013017)",15.7486448,103.7013017
+1002,"Rondônia, Região Norte, Brasil","(-10.943145, -62.8277863)",-10.943145,-62.8277863
+1003,"Roraima, Região Norte, Brasil","(2.135138, -61.3631922)",2.135138,-61.3631922
+1004,"Roscommon County, Michigan, United States of America","(44.3326932, -84.6165164)",44.3326932,-84.6165164
+1005,"จังหวัดสระแก้ว, ประเทศไทย","(13.7686129, 102.1345352)",13.7686129,102.1345352
+1006,"Saarland, Deutschland","(49.4173988, 6.9805789)",49.4173988,6.9805789
+1007,"佐賀県 (Saga Prefecture), 日本 (Japan)","(33.2185408, 130.1296585)",33.2185408,130.1296585
+1008,"埼玉県, 日本 (Japan)","(35.9754168, 139.4160114)",35.9754168,139.4160114
+1009,"จังหวัดสกลนคร, ประเทศไทย","(17.1904453, 103.9730898)",17.1904453,103.9730898
+1010,"Salzburg, 5020, Österreich","(47.7981346, 13.0464806)",47.7981346,13.0464806
+1011,"จังหวัดสมุทรปราการ, ประเทศไทย","(13.6531651, 100.8182578)",13.6531651,100.8182578
+1012,"จังหวัดสมุทรสาคร, ประเทศไทย","(13.5708192, 100.2585874)",13.5708192,100.2585874
+1013,"จังหวัดสมุทรสงคราม, ประเทศไทย","(13.3576862, 99.9619685)",13.3576862,99.9619685
+1014,"San Luis Potosí, México","(22.5000001, -100.5000001)",22.5000001,-100.5000001
+1015,"Santa Catarina, Região Sul, Brasil","(-27.0628367, -51.114965)",-27.0628367,-51.114965
+1016,"Región Metropolitana de Santiago, Chile","(-33.5739341, -70.6205518)",-33.5739341,-70.6205518
+1017,"จังหวัดสระบุรี, ประเทศไทย","(14.6240563, 100.8601022)",14.6240563,100.8601022
+1018,"Saskatchewan, Canada","(55.5321257, -106.1412243)",55.5321257,-106.1412243
+1019,"Satakunta, Manner-Suomi, Suomi","(61.592016650000005, 21.779944486727153)",61.592016650000005,21.779944486727153
+1020,"จังหวัดสตูล, ประเทศไทย","(7.0366682, 99.9615397)",7.0366682,99.9615397
+1021,"Sachsen, Deutschland","(50.9295798, 13.4585052)",50.9295798,13.4585052
+1022,"Sachsen-Anhalt, Deutschland","(51.908526, 11.4939134)",51.908526,11.4939134
+1023,"Scania, Carrera 68D, Montevideo, Fontibón, Bogotá, 00001, Colombia","(4.647637, -74.11524956609347)",4.647637,-74.11524956609347
+1024,"Schleswig-Holstein, Deutschland","(54.1853998, 9.8220089)",54.1853998,9.8220089
+1025,"Scotland, United Kingdom","(56.7861112, -4.1140518)",56.7861112,-4.1140518
+1027,"Sergipe, Região Nordeste, Brasil","(-10.6743911, -37.3773519)",-10.6743911,-37.3773519
+1028,"滋賀県, 日本 (Japan)","(35.247154, 136.109385)",35.247154,136.109385
+1029,"島根県, 日本 (Japan)","(34.9418212, 132.537439)",34.9418212,132.537439
+1030,"静岡県, 日本 (Japan)","(34.9332488, 138.0955398)",34.9332488,138.0955398
+1031,"จังหวัดศรีสะเกษ, ประเทศไทย","(14.9222, 104.4439596)",14.9222,104.4439596
+1032,"Sicily, Cittadella Executive Village, Pulanglupa Dos, Las Piñas, 1st District, NCR, Fourth District, Metro Manila, 1742, Philippines","(14.4576219, 120.9908702)",14.4576219,120.9908702
+1034,"Sinaloa, México","(25.0000001, -107.5000001)",25.0000001,-107.5000001
+1035,"จังหวัดสิงห์บุรี, ประเทศไทย","(14.9936716, 100.3602963)",14.9936716,100.3602963
+1036,"County Sligo, Connacht, Ireland","(54.19298605, -8.7305426729522)",54.19298605,-8.7305426729522
+1037,"Somogy megye, Dél-Dunántúl, Dunántúl, Magyarország","(46.439656, 17.6212956)",46.439656,17.6212956
+1038,"จังหวัดสงขลา, ประเทศไทย","(6.8790221, 100.5498542)",6.8790221,100.5498542
+1039,"Sonora, México","(29.3333331, -110.6666671)",29.3333331,-110.6666671
+1040,"South Australia, Australia","(-30.5343665, 135.6301212)",-30.5343665,135.6301212
+1041,"S, 38, Čáslav, okres Kutná Hora, Středočeský kraj, Střední Čechy, 28576, Česká republika","(49.93421165, 15.394405457832942)",49.93421165,15.394405457832942
+1042,"South Carolina, United States of America","(33.6874388, -80.4363743)",33.6874388,-80.4363743
+1043,"South Dakota, United States of America","(44.6471761, -100.348761)",44.6471761,-100.348761
+1044,"Zuid-Holland, Nederland","(51.9966792, 4.5597397)",51.9966792,4.5597397
+1045,"Etelä-Karjala, Manner-Suomi, Suomi","(61.26671405, 28.405512513307876)",61.26671405,28.405512513307876
+1046,"Representation of the South Moravian Region, Place de Jamblinne de Meux - de Jamblinne de Meuxplein, Schaerbeek - Schaarbeek, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1030, België - Belgique - Belgien","(50.8476601, 4.3945047)",50.8476601,4.3945047
+1047,"Etelä-Pohjanmaa, Manner-Suomi, Suomi","(62.73893905, 23.1124434775342)",62.73893905,23.1124434775342
+1048,"Etelä-Savo, Manner-Suomi, Suomi","(61.90173715, 27.988204437474387)",61.90173715,27.988204437474387
+1049,"南區 Southern District, 香港島 Hong Kong Island, 香港 Hong Kong, 852, China 中国","(22.2192627, 114.22522984854672)",22.2192627,114.22522984854672
+1050,"Southland, Mariposa Village, Talon Tres, Las Piñas, 2nd District, NCR, Fourth District, Metro Manila, 1747, Philippines","(14.4478232, 121.0006407)",14.4478232,121.0006407
+1051,"Varsinais-Suomi, Manner-Suomi, Suomi","(60.3059485, 22.414426030893356)",60.3059485,22.414426030893356
+1052,"Estado de México, México","(19.4839446, -99.6899716)",19.4839446,-99.6899716
+1053,"Stockholms län, Svealand, Sverige","(59.3901513, 18.66427492013602)",59.3901513,18.66427492013602
+1054,"Steiermark, Österreich","(47.2500001, 15.1666665)",47.2500001,15.1666665
+1056,"จังหวัดสุโขทัย, ประเทศไทย","(17.1446985, 99.4375845)",17.1446985,99.4375845
+1057,"จังหวัดสุพรรณบุรี, ประเทศไทย","(14.6777, 100.0350785)",14.6777,100.0350785
+1058,"จังหวัดสุราษฎร์ธานี, ประเทศไทย","(9.4674663, 98.830042)",9.4674663,98.830042
+1059,"จังหวัดสุรินทร์, ประเทศไทย","(15.0610142, 103.7613123)",15.0610142,103.7613123
+1060,"województwo świętokrzyskie, Polska","(50.7504894, 20.7829122)",50.7504894,20.7829122
+1061,"Szabolcs-Szatmár-Bereg megye, Észak-Alföld, Alföld és Észak, Magyarország","(48.0297821, 22.0040108)",48.0297821,22.0040108
+1063,"Södermanlands län, Svealand, Sverige","(58.96382725, 16.729934811622115)",58.96382725,16.729934811622115
+1064,"Tabasco, México","(17.95078635, -92.48312213241397)",17.95078635,-92.48312213241397
+1066,"臺南市, Taiwan","(22.9912348, 120.184982)",22.9912348,120.184982
+1068,"จังหวัดตาก, ประเทศไทย","(17.1053568, 98.9953943)",17.1053568,98.9953943
+1069,"Tamaulipas, México","(23.9891553, -98.7026825)",23.9891553,-98.7026825
+1070,"Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi","(61.4980214, 23.7603118)",61.4980214,23.7603118
+1071,"桃園區, 桃園市, 330, Taiwan","(24.993923, 121.30168)",24.993923,121.30168
+1072,"Taranaki, Frutillar, Provincia de Llanquihue, Región de Los Lagos, 569, Chile","(-41.1141825, -72.9956854)",-41.1141825,-72.9956854
+1073,"Región de Tarapacá, Chile","(-20.1636672, -69.5463448)",-20.1636672,-69.5463448
+1075,"Tasmania, Central Highlands, Tasmania, Australia","(-42.14220555, 146.6723517878467)",-42.14220555,146.6723517878467
+1076,"מחוז תל אביב, ישראל","(32.0956658, 34.80625681639919)",32.0956658,34.80625681639919
+1077,"Tennessee, United States of America","(35.7730076, -86.2820081)",35.7730076,-86.2820081
+1078,"Texas, United States of America","(31.8160381, -99.5120986)",31.8160381,-99.5120986
+1079,"Bremen, Deutschland","(53.144869, 8.6932343)",53.144869,8.6932343
+1080,"Thüringen, Deutschland","(50.7333163, 11.0747905)",50.7333163,11.0747905
+1081,"County Tipperary, Munster, Ireland","(52.68477435, -7.898080410303971)",52.68477435,-7.898080410303971
+1082,"Tlaxcala, México","(19.416667, -98.166667)",19.416667,-98.166667
+1083,"Tocantins, Região Norte, Brasil","(-10.8855129, -48.3716912)",-10.8855129,-48.3716912
+1084,"栃木県, 日本 (Japan)","(36.6782167, 139.8096549)",36.6782167,139.8096549
+1085,"徳島県, 日本 (Japan)","(33.9196418, 134.2509634)",33.9196418,134.2509634
+1086,"Tokyo, Rue Servient, Préfecture, Lyon 3e Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69001, France","(45.7599243, 4.8433966)",45.7599243,4.8433966
+1087,"Tolna megye, Dél-Dunántúl, Dunántúl, Magyarország","(46.4883447, 18.5050005)",46.4883447,18.5050005
+1088,"鳥取県, 日本 (Japan)","(35.3555075, 133.8678525)",35.3555075,133.8678525
+1089,"富山県, 日本 (Japan)","(36.6468015, 137.2183531)",36.6468015,137.2183531
+1090,"จังหวัดตรัง, ประเทศไทย","(7.5892935, 99.5032004)",7.5892935,99.5032004
+1091,"จังหวัดตราด, ประเทศไทย","(12.2593544, 102.4268871)",12.2593544,102.4268871
+1092,"Trenčín, Trenčianský kraj, Západné Slovensko, 91250, Slovensko","(48.8923583, 18.0393715)",48.8923583,18.0393715
+1093,"Tiranë, Bashkia Tiranë, Qarku i Tiranës, Shqipëria qendrore, 1001-1028, Shqipëria","(41.3268733, 19.8187913)",41.3268733,19.8187913
+1094,"Tuscany, ဆူးလဘေုရားလမ်း, ကျောက်တံတား, ရန်ကုန်, Western District, ရန်ကုန်တိုင်းဒေသကြီး, 11143, Myanmar","(16.7730981, 96.1583948)",16.7730981,96.1583948
+1095,"Tirol, Österreich","(47.223193, 11.5261028)",47.223193,11.5261028
+1096,"จังหวัดอุบลราชธานี, ประเทศไทย","(15.1879684, 105.3269544)",15.1879684,105.3269544
+1097,"จังหวัดอุดรธานี, ประเทศไทย","(17.5211917, 102.6680012)",17.5211917,102.6680012
+1098,"La Umbría, Jumilla, Altiplano, Región de Murcia, España","(38.3730837, -1.3686094)",38.3730837,-1.3686094
+1099,"Oberösterreich, Österreich","(48.25, 14.0)",48.25,14.0
+1100,"Normandy, Eastside Manors Executive Village, Maybunga, Pasig, Metro Manila, 1607, Philippines","(14.5795543, 121.0862404)",14.5795543,121.0862404
+1101,"Uppsala län, Svealand, Sverige","(60.1486, 17.6249561013141)",60.1486,17.6249561013141
+1102,"Utah, United States of America","(39.4225192, -111.7143584)",39.4225192,-111.7143584
+1103,"จังหวัดอุทัยธานี, ประเทศไทย","(15.3912084, 99.4560531)",15.3912084,99.4560531
+1104,"จังหวัดอุตรดิตถ์, ประเทศไทย","(17.625163, 100.4029452)",17.625163,100.4029452
+1105,"Uusimaa, Manner-Suomi, Suomi","(60.2246684, 25.12726308225769)",60.2246684,25.12726308225769
+1106,"Comunitat Valenciana, España","(39.6819591, -0.7654406)",39.6819591,-0.7654406
+1107,"Región de Valparaíso, Chile","(-32.5976089, -70.8529753)",-32.5976089,-70.8529753
+1108,"Vaasa, Vaasan seutukunta, Österbotten, Manner-Suomi, Suomi","(63.0957722, 21.6159187)",63.0957722,21.6159187
+1109,"Βενέτο, Δήμος Ρήγα Φερραίου, Περιφερειακή Ενότητα Μαγνησίας, Περιφέρεια Θεσσαλίας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδας, 38500, Ελλάδα","(39.543381, 22.9824075)",39.543381,22.9824075
+1110,"Veracruz de Ignacio de la Llave, México","(19.333333, -96.666667)",19.333333,-96.666667
+1111,"Vermont, United States of America","(44.5990718, -72.5002608)",44.5990718,-72.5002608
+1112,"Veszprém, Veszprémi járás, Veszprém megye, Közép-Dunántúl, Dunántúl, Magyarország","(47.0928058, 17.9140147)",47.0928058,17.9140147
+1113,"Victoria, Australia","(-36.5986096, 144.6780052)",-36.5986096,144.6780052
+1114,British Virgin Islands,"(18.4024395, -64.5661642)",18.4024395,-64.5661642
+1115,"Virginia, United States of America","(37.1232245, -78.4927721)",37.1232245,-78.4927721
+1116,"Vorarlberg, Österreich","(47.25, 9.9166667)",47.25,9.9166667
+1117,"Vysočina, okres Chrudim, Pardubický kraj, Severovýchod, 539 01, Česká republika","(49.7800227, 15.856672412557076)",49.7800227,15.856672412557076
+1118,"Värmlands län, Svealand, Sverige","(59.89054465, 13.294924808070956)",59.89054465,13.294924808070956
+1119,"Västerbottens län, Norrland, Sverige","(64.7196392, 18.569708339695726)",64.7196392,18.569708339695726
+1120,"Västernorrlands län, Norrland, Sverige","(63.058969250000004, 18.105868264726514)",63.058969250000004,18.105868264726514
+1121,"Västmanlands län, Svealand, Sverige","(59.6965639, 16.18465359159597)",59.6965639,16.18465359159597
+1122,"Västra Götalands län, Götaland, Sverige","(58.203026949999995, 12.649730022427754)",58.203026949999995,12.649730022427754
+1123,"Waikato, Avenida España, Villa Aranjuez, Villorrio Puente Colorado, Curicó, Provincia de Curicó, Región del Maule, 340001, Chile","(-34.9861397, -71.228987)",-34.9861397,-71.228987
+1124,"和歌山県, 日本 (Japan)","(33.8070292, 135.5930743)",33.8070292,135.5930743
+1125,"Cymru / Wales, United Kingdom","(52.2928116, -3.73893)",52.2928116,-3.73893
+1126,"Ferme du Caillou, Chaussée de Bruxelles, Vieux-Genappe, Genappe, Brabant wallon, Wallonie, 1472, België - Belgique - Belgien","(50.6460761, 4.420726754545452)",50.6460761,4.420726754545452
+1127,"Warmia, Wojska Polskiego, Centrum, Szyba, Ełk, powiat ełcki, województwo warmińsko-mazurskie, 19-300, Polska","(53.8230971, 22.3458545)",53.8230971,22.3458545
+1129,"Waterford, County Waterford, Munster, X91 YA2H, Ireland","(52.2609997, -7.1119081)",52.2609997,-7.1119081
+1130,"Wellington, Halifax County, Nova Scotia, Canada","(44.8727544, -63.6076481)",44.8727544,-63.6076481
+1131,"West Coast, Tenghory, Bignona, Département de Bignona, Ziguinchor, Sénégal","(12.791402, -16.226968)",12.791402,-16.226968
+1132,"Atlantikwall (WW1 & WW2), Nieuwpoortsesteenweg, Raversijde, Oostende, West-Vlaanderen, Vlaanderen, 8400, België - Belgique - Belgien","(51.2006561, 2.8472134)",51.2006561,2.8472134
+1133,"województwo zachodniopomorskie, Polska","(53.5450793, 15.5661586)",53.5450793,15.5661586
+1134,"West Virginia, United States of America","(38.4758406, -80.8408415)",38.4758406,-80.8408415
+1135,"Western Australia, Australia","(-25.2303005, 121.0187246)",-25.2303005,121.0187246
+1136,"Western Cape, South Africa","(-33.546977, 20.72753)",-33.546977,20.72753
+1137,"Westmeath, Renfrew County, Eastern Ontario, Ontario, K0J 2L0, Canada","(45.8197719, -76.8902669)",45.8197719,-76.8902669
+1138,"County Wexford, Leinster, Ireland","(52.46018745, -6.606515459159162)",52.46018745,-6.606515459159162
+1139,"County Wicklow, Leinster, Ireland","(52.95814675, -6.381970708677661)",52.95814675,-6.381970708677661
+1140,"Wisconsin, United States of America","(44.4308975, -89.6884637)",44.4308975,-89.6884637
+1141,"Wyoming, United States of America","(43.1700264, -107.5685348)",43.1700264,-107.5685348
+1142,"จังหวัดยะลา, ประเทศไทย","(6.3344846, 101.1409694)",6.3344846,101.1409694
+1143,"山形県, 日本 (Japan)","(38.4746705, 140.083237)",38.4746705,140.083237
+1144,"山口県, 日本 (Japan)","(34.2379614, 131.5873845)",34.2379614,131.5873845
+1145,"山梨県, 日本 (Japan)","(35.6399328, 138.6380495)",35.6399328,138.6380495
+1146,"จังหวัดยโสธร, ประเทศไทย","(16.0282186, 104.2748479)",16.0282186,104.2748479
+1147,"Yucatán, México","(20.6845957, -88.8755669)",20.6845957,-88.8755669
+1148,"Yukon, Canada","(63.000147, -136.002502)",63.000147,-136.002502
+1149,"Zacatecas, México","(23.0000001, -103.0000001)",23.0000001,-103.0000001
+1150,"Zala megye, Nyugat-Dunántúl, Dunántúl, Magyarország","(46.6713343, 16.8894692)",46.6713343,16.8894692
+1151,"Zeeland, Nederland","(51.4162975, 3.7028061)",51.4162975,3.7028061
+1152,"Zlín, okres Zlín, Zlínský kraj, Střední Morava, Česká republika","(49.226766, 17.6667415)",49.226766,17.6667415
+1153,"Ile de France, Clara-Zetkin-Weg, Mitte, Hannover, Region Hannover, Niedersachsen, 30169, Deutschland","(52.3684878, 9.7338605)",52.3684878,9.7338605
+1154,"Örebro län, Svealand, Sverige","(59.380478800000006, 14.988954117760276)",59.380478800000006,14.988954117760276
+1155,"Östergötlands län, Götaland, Sverige","(58.36782395, 16.050427203885352)",58.36782395,16.050427203885352
+1156,"Ústí nad Labem, okres Ústí nad Labem, Ústecký kraj, Severozápad, Česká republika","(50.6603327, 14.0381357)",50.6603327,14.0381357
+1157,"Žilina, okres Žilina, Žilinský kraj, Stredné Slovensko, Slovensko","(49.22055575, 18.726053511440483)",49.22055575,18.726053511440483
